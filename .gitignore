@@ -1,0 +1,14 @@
+# 환경 변수
+.env
+
+# project document
+document
+
+# DS_store
+DS_store
+
+# test_data
+test_data
+
+# reviewxisx
+streamlit/reviewxisx

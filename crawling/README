@@ -1,0 +1,12 @@
+"""
+크롤링은 다음과 같이 사용한다.
+from crawling.crawl import Coupang  # 크롤링 위치에서 Coupang 클래스를 가져옴
+from crawling.mapcrawl import GoogleMaps  # 크롤링 위치에서 GoogleMaps 클래스를 가져옴
+
+            coupang = Coupang()
+            coupang.start(url)  # URL을 start 메서드에 전달
+            coupang = Coupang()
+            coupang.start(url)  # URL을 start 메서드에 전달
+
+크롤링 이후 -> reviewxisx 파일로 이동
+"""
